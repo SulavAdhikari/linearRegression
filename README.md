@@ -13,5 +13,5 @@ python main.py
 ```
 this will start the flask webserver.
 you will get a url in your terminal.
-visit the url and you'll get the an nput field.
+visit the url and you'll get the an input field.
 thats where you put your house's area and you'll get a price.
