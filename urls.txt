@@ -1,0 +1,3 @@
+https://gist.github.com/aricooperdavis/c658fc1c5d9bdc5b50ec94602328073b 3dlinear regression
+
+https://linuxhint.com/house-price-prediction-linear-regression/ 2d linear regression implementation
